@@ -1,0 +1,52 @@
+body {
+   background: linear-gradient(#8ec5fc, #e0c3fc);   
+}
+
+h1 {
+   font-size: 50px;
+   font-family: sans-serif;
+   color: #073b4c;
+   margin-left: 15px;
+}
+
+h2 {
+   font-size: 45px;
+   font-family: sans-serif;
+   font-weight: 100;
+   margin-top: auto;
+   color: #073b4c;
+   margin-left: 15px;
+}
+
+p{
+   font-family: sans-serif;
+   margin-left: 15px;
+}
+
+img {
+   margin-left: 15px;
+   box-shadow: -10px 10px 10px rgba(0, 0, 0, 0.5);
+}
+
+select option{
+   padding-right: 2em;
+   color: #008e9b;
+   margin-left: 10px;
+}
+
+label {
+   font-family: sans-serif;
+   margin-left: 15px;
+   color: #073b4c;
+   font-size: medium;
+}
+
+textarea {
+   box-shadow: -10px 10px 10px rgba(0, 0, 0, 0.5);
+   margin-left: 15px; 
+}
+
+::placeholder {
+   color: #073b4c;
+}
+
